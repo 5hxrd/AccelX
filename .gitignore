@@ -1,0 +1,11 @@
+node_modules
+dist
+dist-tauri
+.env
+src-tauri/target
+src-tauri/gen
+tools/keygen/target
+
+# Licensing - NEVER commit these
+private.key
+sales-log.csv
