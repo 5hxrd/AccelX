@@ -1,0 +1,7 @@
+# Never touch binaries (line-ending conversion would corrupt the driver files)
+src-tauri/engine/** binary
+*.exe binary
+*.dll binary
+*.sys binary
+*.ico binary
+*.png binary
